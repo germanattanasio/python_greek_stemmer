@@ -57,5 +57,5 @@ poetry run pytest tests/
 
 [pypi-image]: https://img.shields.io/pypi/v/greek_stemmer_plus
 [pypi-url]: https://pypi.org/project/greek_stemmer_plus/
-[build-image]: https://github.com/mathspp/greek_stemmer_plus/actions/workflows/build.yaml/badge.svg
-[build-url]: https://github.com/mathspp/greek_stemmer_plus/actions/workflows/build.yaml
+[build-image]: https://github.com/germanattanasio/python_greek_stemmer/actions/workflows/main.yaml/badge.svg
+[build-url]: https://github.com/germanattanasio/python_greek_stemmer/actions/workflows/main.yaml
